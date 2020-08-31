@@ -119,3 +119,4 @@ git push origin master
 6. It should say "Elastic Beanstalk is updating your environment"
 
 7. It should eventually show a green checkmark under "Health". You will now be able to access your application at the external URL provided under the environment name.
+
